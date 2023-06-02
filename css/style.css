@@ -2471,7 +2471,7 @@ ul {
   height: 880px;
   position: relative;
   overflow: hidden;
-  background-image: url(../img/banner_bg.png);
+  background-image: url('https://res.cloudinary.com/dz1dgaf8z/video/upload/v1685699866/IEP_logo_2_unc0v5.mp4');
   background-repeat: no-repeat;
   background-size: 68%;
   background-position: top right;
@@ -2746,7 +2746,7 @@ ul {
   width: 41%;
   height: 69%;
   content: "";
-  background-image: url(../img/banner_img.png);
+  background: url('https://res.cloudinary.com/dz1dgaf8z/video/upload/v1685699866/IEP_logo_2_unc0v5.mp4');
   background-size: 100% 100%;
   right: 9%;
 }
